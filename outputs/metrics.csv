@@ -1,0 +1,4 @@
+model,MAE,RMSE,R2
+Baseline Mean,1.7269,2.1036,-0.0034
+Ridge Regression,1.1903,1.5067,0.4853
+Random Forest,1.3289,1.6605,0.3748
